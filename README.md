@@ -6,7 +6,7 @@
 - :warning: How to contact me boshen.fanconnor@gmail.com or 304446350@qq.com
 
 ## My technology stack
-	![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   - 熟悉java常用技术栈
     - 集合类
     - 多线程
